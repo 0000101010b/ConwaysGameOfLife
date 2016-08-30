@@ -1,3 +1,3 @@
 # ConwaysGameOfLife
-Basic implementation of Game Of Life in Unity C#
+Basic implementation of Game Of Life Unity C#
 
